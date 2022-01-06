@@ -1,0 +1,357 @@
+---
+title: "Week-01-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 01 Notes
+
++ Nathan Colaner
+
++ Joe Schlegel
+
+    + background in sales and leadership with Verizon
+    + working as recruiter with mom & pop construction management firm
+    + Commonality between corporate America and mom&pop: **RELATIONSHIP BUILDING**
+        + Develop trust, develop stakeholder relationships
+
+# Course Overview Video
+
++ Logic of the course
+
+    + OMSBA focuses on technical skills - coding, stats, ML
+    + Must have context of the data
+    + OMSBA context is simple: BUSINESS
+    + OMSBA Advisory Board - technical skills are far more valuable when students realize **CONTEXT**
+        + many people know how to code, but rarely, people know how to code in the context of business
+
++ 2 parts of 5910
+
+    + 1st half: Joe Schlegel (weeks 1-5)
+        + goal: receive tools to help us manage relationships on both personal and professional level
+    + 2nd half: Nathan Colaner (weeks 6-10)
+        + corporate surveillence undermines employee autonomy
+        + nobody likes being micromanaged
+        + yes analytics is changing disciplines - when is it bad and when is it good?
+        + how is analytics changing marketing?
+    
+# Week 1 Overview Video
+
++ Joe intro: developing trust and building relationships
+
+    + people buy from people they like and people they trust
+    + always need to make a connection with his counterpart
+    + used data to communicate up and down to keep stakeholders updated
+    
++ fishbowl discussions
+  
+    + specific group leads a discussion
+    + everyone in class must reply to post 
+    + attempt to duplicate discussions in F2F classes
+    + directions in canvas
+    
++ this week: 
+
+    + video intro 
+    + submit resume
+    + order course pack
+        + read Freeman article
+        + ease and convenience: $80 investment
+    + writing assignments based on articles
+    + read attached article (Lynn Stout)
+        + investing in "dynamite" (shareholder value)
+    + Ed Freeman TEDx Talk
+    + Stakeholder Theory and Stakeholder Engagement Framework lecture videos
+    
++ goal of the class: equip us to be happier employees and enlightened managers
+      
+
+# Stakeholder Theory: Edward Freeman TEDtalk
+
++ Idealism and enthusiasm - PhD in Philosophy! 
+
++ Make business better - we need a revolution about ideas and concepts 
+
+    + we need a new story about business
+
++ Current story: about money and profits being greedy little bastards
+
++ 3 flaws: 
+
+    1. Purpose of business is to profit - Money is the purpose
+        + The purpose of life is *not* to make Red Blood Cells
+        + Entrepreneurs don't start businesses just to make money. They're on **FIRE** about their ideas
+    2. Business and Ethics contradiction
+        + Successful business - Create value for stakeholders
+        + Ethics - realizing how our actions effect others and how we live together
+    3. People are not simple beings of self-interest
+        + "Great jackass fallacy" - maybe humans are just a little more complicated than a jackass
+
++ New story: business is about purpose and creating value for stakeholders (not just shareholders)
+
+    + do this without making tradeoffs
+    + when tradeoffs are unacceptable, people **INNOVATE** via imagination and creativity
+
++ what do we need to do?
+
+    1. get involved
+        + think for myself for my own purpose and how I can effect my own stakeholders
+        + think about my own values and ethics
+        + put ethics and values in the center to change the story in what we expect and what we do
+    2. see conflict as important
+        + values are not values if they go unchallenged
+        + challenge / conflict / critique - just rock!
+        + only way to create value is to push back. If there are no conflicts, there are no values
+    3. Expect more from our companies
+        + change the world with governments and civil society by using the right components of capitalism
+        
+# Review of the Stakeholder Engagement Framework
+Brief overview of Stakeholder Theory and the differences of Shareholder focus
+
++ Video lectures are brief synopsis of readings
++ Stakeholders - all people connected to business
+
+    + internal - employees, managers, board of directors
+    + external - government, press/media, local communities, society
+    + connected - distributors (vendors / suppliers), customers, financiers, retailers
+    
++ shareholders vs. stakeholders
+
+    + dominant model - businesses are to manage solely for the benefit of shareholders. Any other benefits or harms that are created are incidental
+    + shareholder capitalism - "quarter over quarter" increases in earnings is the standard for measuring company performance. Benefits go to those who risked investment in the firm (**SHORT TERM**)
+    + stakeholder theory - "those groups without whose support the organization would cease to exist
+    + stakeholder capitalism - company's purpose to create long-term value and not to maximize profits and enhance shareholder value at the cost of other stakeholder groups (**LONG TERM**)
+    
++ stakeholder engagement framework
+    
+    1. Plan and Design
+        + what are you trying to accomplish?
+        + start with a goal and know why you're trying to engage with stakeholder
+    2. Internal engagement & capacity building
+        + who will be involved internally?
+        + assemble the team of advocates!
+    3. Listen and Engage
+        + How will you encourage open exchange and mutual learning?
+        + create and execute outreach plan
+    4. Synthesize and strategize
+        + How will you develop strategies?
+        + Implement the plan and solicit feedback along the way
+    5. Evaluate and improve
+        + Where do we go from here?
+        
++ communicating with stakeholders
+
+    + be open and transparent
+    + communicate in the right way to the right audience
+    + understand reasoning of stakeholder's values 
+    + provide a feedback loop
+    
++ Group Discussion:
+
+1. Do you feel stakeholder theory is a viable option for running a business?
+2. Do you recognize who your stakeholders are in your current role? How do you communicate with them?
+3. How do you feel managing data applies to your stakeholders? Or is it a non-starter because the numbers are the numbers?
+
+    + Transparency goes a long way and is highly valued by stakeholders
+    
+4. Is stakeholder-focus simply a side benefit that is the result of strong shareholder-focus?
+
+    + No, I believe it's the other way around. Shareholder-focus is a side benefit to stakeholder-focus. 
+
+
+# Managing for Stakeholders 
+(HBR Coursepack: https://hbsp.harvard.edu/download?url=%2Fcourses%2F830659%2Fitems%2FUV6582-PDF-ENG%2Fcontent&metadata=e30%3D)
+
++ managing for stakeholders: businesses and its executives actually do and should create value for customers, suppliers, employees, communities, and financiers (aka shareholders)
++ must pay careful attention to how these relationships are managed and how value gets created for these stakeholders
++ dominant model: businesses are managed solely for the benefit of shareholders
+
+    + this frame of thinking is flawed: 
+        + resistant to change
+        + inconsistent with the law
+        + ignores ethics
+    + these flaws will kill business in today's age
+
+## Dominant Story: Managerial Capitalism with Shareholders at the Center
+
++ management of the firm became separated from the ownership of the firm
++ old school business: "managerial capitalism", "laissez-faire capitalism", "shareholder capitalism"
+
+    + success: managers of the business had to simultaneously satisfy owners, employees/unions, suppliers, customers
+
++ Joe Schumpeter: predicted that managerialism, hierarchy, stability, and predictability would wipe out the created force of capitalism, stifling innovation in its drive for predictability and stability
++ align interests between executives and shareholders
+
+### dominant model is resistant to change
++ dominant model - prioritize shareholders' interests over and above the interests of customers, suppliers, employees, and others
++ change only happens when shareholders want it
+
+### dominant model is not consistent with the law
++ National Labor Relations Act - gave employees the right to unionize and to bargain in good faith
++ laws have been made to protect local communities (Clean Air Act, Clean Water Act)
++ laws have been made to protect specific classes of people (Age, race, religion discrimination)
++ globalization makes the constraints of the law even stronger - to take into account the interests of groups other than just shareholders
+
+### dominant model is not consistent with basic ethics
++ any business decisions has some sort of ethical content
+
+    + for whom is value created or destroyed?
+    + who is harmed and/or benefitted by this decision?
+    + Whose rights are enabled and whose values are realized?
+    + what kind of person will I become if I make this decision?
+    
++ ethics is about the rules, principles, consequences, matters of character, etc.
++ pragmatist approach to ethics - we reason and talk together to try and crate a better world for all of us
+
+
+## Managing for Stakeholders
+
++ Managing for Stakeholders - Business can be understood as a set of relationships among groups which have a stake in the activities that make up the business
+
+### Stakeholders and stakes
+
++ Owners / financiers - financial stake in the business and expect financial return
++ Employees - jobs and livelihood at stake
++ Local Community - benefits from tax base and economic and social contributions of the firm
++ stakeholder - any group or individual that can affect or be affected by the realization of an organization's purpose
+
+## Responsibility of the Executive in Managing for Stakeholders
+
++ stakes of each stakeholder group are multifaceted, and inherently connected to each other
++ stakeholder interests are inherently tied together
++ there is no conflict between serving all your stakeholders and providing excellent returns for shareholders
++ Primary responsibility of the Executive - create as much value as possible for stakeholders with resorting to tradeoffs
+    
+    + Executive must figure out how to make tradeoffs and improve value for all sides 
+    + this is more easily accomplished when a business has a strong sens of **PURPOSE**
+
++ fine a purpose that speaks to the hearts and minds of key stakeholders, you'll experience sustained success
++ businesses are human institutions populated by real live complex human beings
++ shareholders only care about returns
++ stakeholders care about much more than just $\$\$
+
+## Some Arguments for Managing for Stakeholders
+
++ stakeholders == people, therefore Ethics are automatically applicable
+
+### Argument from consequences
+
++ main reason the dominant model of managing for shareholders is a good idea - leads to best consequences for all
++ no guarantee of production of the greatest good
++ stakeholder focus may produce better consequences because it recognizes that stakeholder interests are joint
+
+    + checks and balances
+    1. stakeholders will exit to form a new stakeholder network that satisfies their needs
+    2. stakeholders will use the politcal process to constrain the offending stakeholder
+    3. stakeholders will invent some other form of activity to satisfy their particular needs
+    
++ if stakeholder relationships are understood to be fully embedded in morality, there is no need for Corporate Social Responsibility (CSR)
+
+    + CSR --> Corporate Stakeholder Responsibility
+    + "social" is only one aspect of stakeholder
+    
+### Argument from rights
+
++ dominant story - gives property rights in the corporation exclusively to shareholders
++ managing for stakeholders - assumes that stakeholders have some rights
++ what is owed to customers, suppliers, employees, financiers, and communities
+
+### Argument from character
+
++ begs the question: what kind of company do you want to create and build?
++ dominant model == consulting mentality. Only thing that matters is billability. Values/virtues don't matter
++ one true virtue that matters with stakeholders - loyalty
++ "how do we create and sustain the creation of value for stakeholders"?
++ "how do we get stakeholder interests all going in the same direction"?
+
+### The pragmatist's argument
+
++ Pragmatists want to know how we can live better, how we can create both ourselves and our communities in a way there values such as freedom and solidarity are present in our everyday lives to the maximal extent
++ out lives are richer if we can have a conversation about how to live together better
+
+# Shareholder Value Myth
+
++ managerial focus on the shareholder's interest can be harmful for the corporation and even for shareholders themselves
+
+    + more valuable to spread the focus over several objectives
+    
+## Shareholder Value and its Disappointments
+
++ Shareholder primacy - corporations are owned by their shareholders so directors/executives should do what the shareholders want them to do - maximize profits
++ shareholder value thinking doesn't seem to work, even for most shareholders
++ stakeholders:
+
+    + customers
+    + creditors
+    + employees
+    + community
+
+### Shareholder Value Myth: History
+
++ original idea of shareholder primacy:
+
+    + structured their companies to make sure the business would provide good service at a reasonable price - not to maximize investment returns
+
+### Shareholder Value Myth: Law
+
++ corporations are legal entities that own themselves
+
+    + just as human entities own themselves
+    
++ shareholders are residual claimants only when failed companies are being liquidated in bankruptcy
++ shareholder primacy is a managerial choice - not a legal requirement
+
+### Shareholder value myth: Evidence
+
++ law does not require corporate managers to maximize shareholder value
++ individual shareholders - care only about their own investing returns in the near future
++ policymakers and governance experts - care about public equity returns to investors as a class over the long-term
++ shareholder value-increasing strategies that are profitable for one shareholder in one period of time can negatively impact other shareholders over a longer period of time
++ maximizing shareholder value == fishing with dynamite
+
+    + brief initial increase followed by rapid decline
+
+## There is no single shareholder value
+
++ there is no single "shareholder value"
++ "shareholders" - human beings who happen to own shares
+
+    + human beings have different interests and values
+    
+## Which shareholders and whose values?
+
++ different shareholders have different values
+    
++ shareholder primacy flaws:
+
+    1. Routinely judge the success of endeavors by multiple/subjective criteria
+    2. "Maximize shareholder value" asks managers to focus only on the share price of their own company in the near-term
+
+### Satisficing Alternative
+
++ "satisfy" + "suffice"
++ advantages: 
+
+    + does not try to resolve conflicts among different shareholders by maximizing only the interests of the small subset who are most short-term, opportunistic, undiversified, and asocial
+    
++ satisficeing enables: 
+
+    + managers to retain earnings to invest in safety procedures, marketing, and research and development that contribute to future growth
+    + eschew leverage that threatens the firm's stability
+    + build customer and employee loyalty
+    + be pro-social
+    + down with the asocial shareholders!
+    + profits are not the *only* corporate objective
+    + care for stakeholders - investors, employees, customers, society
+
+
